@@ -1,0 +1,8 @@
+R
+https://cloud.r-project.org/
+
+RSTUDIO
+https://docs.posit.co/ide/user/download.html
+
+LAS DOS CARPETAS EN LA RUTA DE: 
+C:\Program Files
